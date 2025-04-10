@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+export PATH=$HOME/development/flutter/bin:$PATH
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
